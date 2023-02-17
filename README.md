@@ -6,7 +6,7 @@ I'm a C# developer, game developer and game designer. Also I create my assests i
 Here is my LinkedIn account: https://www.linkedin.com/in/serkan-kılıc/
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Serkan-Kk&theme=vue-dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Serkan-K)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Serkan-K&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serkan-K&layout=compact&theme=vue-dark&hide=kotlin,swift,objective-c)](https://github.com/Serkan-K)
 
