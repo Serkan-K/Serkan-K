@@ -8,9 +8,9 @@ Here is my LinkedIn account: https://www.linkedin.com/in/serkan-kılıc/
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Serkan-K&theme=github-dark&hide_border=true&border_radius=5&fire=EB0000&ring=02EBBF&currStreakNum=FFFFFF&sideNums=EB09E8&stroke=EBEBEB&dates=EBEBEB&currStreakLabel=DDEB38&sideLabels=0AEB7D)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Serkan-K&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Serkan-K&show_icons=true&theme=github_dark&hide_border=true&border_radius=5)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serkan-K&layout=compact&theme=github_dark&hide=kotlin,swift,objective-c)](https://github.com/Serkan-K)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serkan-K&layout=compact&theme=github_dark&&hide_border=true&border_radius=5,hide=kotlin,swift,objective-c)](https://github.com/Serkan-K)
 
 
 <!--
