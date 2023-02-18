@@ -1,7 +1,7 @@
 ### Hi everyone! 👋
 
 
-I'm a C# developer, game developer and game designer. Also I create my assests in Blender
+I'm a C# developer, game developer and game designer. Also I create my assets in Blender
 
 Here is my LinkedIn account: https://www.linkedin.com/in/serkan-kılıc/
 
