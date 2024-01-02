@@ -3,7 +3,8 @@
 
 I'm a C# developer, game developer and game designer. Also I create my assets in Blender
 
-Here is my LinkedIn account: https://www.linkedin.com/in/serkan-kılıc/
+Here is my LinkedIn account: https://www.linkedin.com/in/serkan-klc/
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Serkan-K&theme=github-dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
