@@ -4,8 +4,7 @@
 <!--
 I'm a game developer and technical artist.-->
 
-### Here is my LinkedIn account: [![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/serkan-klc)) 
-
+ ![LinkedIn](https://skillicons.dev/icons?i=linkedin) [LinkedIn](https://www.linkedin.com/in/serkan-klc)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Serkan-K&theme=github-dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
@@ -15,7 +14,7 @@ I'm a game developer and technical artist.-->
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,cs,cpp,py,blender,unity,unreal&perline=6" />
+    <img src="https://skillicons.dev/icons?i=github,cs,cpp,py,blender,unity,unreal&perline=10" />
   </a>
 </p>
 
