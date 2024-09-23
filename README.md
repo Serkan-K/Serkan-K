@@ -4,7 +4,7 @@
 <!--
 I'm a game developer and technical artist.-->
 
-Here is my LinkedIn account: https://www.linkedin.com/in/serkan-klc/
+## Here is my LinkedIn account: https://www.linkedin.com/in/serkan-klc/
 
 
 
@@ -20,20 +20,20 @@ Here is my LinkedIn account: https://www.linkedin.com/in/serkan-klc/
 
 <details>
            <summary>Projects </summary>
-           <p> <details>
-           <summary>Unity </summary>
-           <p> - Unity </p>
-         </details>
+           <p> 
 <details>
-           <summary>Unity </summary>
+           <summary> Unity </summary>
+           <p> - Unity </p>
+</details>
+<details>
+           <summary> Unreal Engine </summary>
            <p> - Unreal Engine </p>
-         </details>
-         <details>
-           <summary>Unity </summary>
+</details>
+<details>
+           <summary> Blender </summary>
            <p> - Blender </p>
-         </details>                      
-                      </p>
-         </details>
+</details> </p>
+</details>
 
 
 
