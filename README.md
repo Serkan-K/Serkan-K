@@ -4,7 +4,7 @@
 <!--
 I'm a game developer and technical artist.-->
 
-## Here is my LinkedIn account: https://www.linkedin.com/in/serkan-klc/
+### Here is my LinkedIn account: https://www.linkedin.com/in/serkan-klc/
 
 
 
