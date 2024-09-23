@@ -14,7 +14,7 @@ I'm a game developer and technical artist.-->
 
 
 
-
+[![My Skills](https://skills.thijs.gg/icons?i=cs,cpp,unity,unreal,py&theme=dark)](https://skills.thijs.gg)
          
 - - - -
 
