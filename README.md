@@ -19,17 +19,15 @@ I'm a game developer and technical artist.-->
   </a>
 </p>
 
-
+<!--
 - - - -
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Serkan-K)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/serkan-klc/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobelightroomclassic.svg' alt='adobelightroomclassic' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blender.svg' alt='blender' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg' alt='unity' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unrealengine.svg' alt='unrealengine' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudio.svg' alt='visualstudio' height='40'>](a)  
+-->
+- - -
+![header](https://capsule-render.vercel.app/api?type=transparent&height=70&color=timeGradient&text=Projects&fontColor=00FFFF&stroke=000000&reversal=false&section=header&animation=twinkling&fontSize=40&strokeWidth=2)
 
-- - - -
-![header](https://capsule-render.vercel.app/api?type=soft&height=70&color=timeGradient&text=Projects&fontColor=FFFF00&stroke=000000&reversal=false&section=header&fontSize=40)
-- - - -
 
-<details>
-           <summary> Projects </summary>
-           <p> 
+
 <details>
            <summary> Unity </summary>
            <p> - Unity </p>
