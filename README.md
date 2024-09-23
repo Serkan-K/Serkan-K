@@ -14,12 +14,6 @@ Here is my LinkedIn account: https://www.linkedin.com/in/serkan-klc/
 
 
 
-- - - -
-
-<details>
-           <summary>Projects </summary>
-           <p> - Unity - Unreal Engine - Blender </p>
-         </details>
 
          
 - - - -
@@ -28,8 +22,16 @@ Here is my LinkedIn account: https://www.linkedin.com/in/serkan-klc/
            <summary>Projects </summary>
            <p> <details>
            <summary>Unity </summary>
-           <p> - Unity - Unreal Engine - Blender </p>
+           <p> - Unity </p>
          </details>
+<details>
+           <summary>Unity </summary>
+           <p> - Unreal Engine </p>
+         </details>
+         <details>
+           <summary>Unity </summary>
+           <p> - Blender </p>
+         </details>                      
                       </p>
          </details>
 
