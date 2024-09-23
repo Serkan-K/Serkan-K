@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Serkan%20Kılıç&fontAlign=75&reversal=true&section=header&fontAlignY=40&descAlign=92&descSize=50&descAlignY=60&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Serkan%20Kılıç&fontAlign=75&reversal=true&section=header&fontAlignY=40&descAlign=92&descSize=50&descAlignY=60&textBg=false&animation=twinkling)
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=1000&color=3CEBF7&width=1500&height=100&lines=Hello+everyone!;I'm+a+game+developer+and+technical+artist.)](https://git.io/typing-svg)
 <!--
@@ -23,8 +23,8 @@ I'm a game developer and technical artist.-->
 - - - -
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Serkan-K)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/serkan-klc/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobelightroomclassic.svg' alt='adobelightroomclassic' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blender.svg' alt='blender' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg' alt='unity' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unrealengine.svg' alt='unrealengine' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudio.svg' alt='visualstudio' height='40'>](a)  
 
-
-         
+- - - -
+![header](https://capsule-render.vercel.app/api?type=soft&height=70&color=timeGradient&text=Projects&fontColor=FFFF00&stroke=000000&reversal=false&section=header&fontSize=40)
 - - - -
 
 <details>
