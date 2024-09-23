@@ -19,7 +19,7 @@ I'm a game developer and technical artist.-->
 - - - -
 
 <details>
-           <summary>Projects </summary>
+           <summary> # Projects </summary>
            <p> 
 <details>
            <summary> Unity </summary>
