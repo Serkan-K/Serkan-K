@@ -8,7 +8,7 @@ I'm a game developer and technical artist.-->
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,cs,cpp,unity,unreal" />
+    <img src="https://skillicons.dev/icons?i=github,cs,cpp,unity,unreal&perline=3" />
   </a>
 </p>
 
