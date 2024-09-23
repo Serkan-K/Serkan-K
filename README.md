@@ -6,11 +6,6 @@ I'm a game developer and technical artist.-->
 
 ### Here is my LinkedIn account: https://www.linkedin.com/in/serkan-klc/
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,cs,cpp,blender,unity,unreal&perline=3" />
-  </a>
-</p>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Serkan-K&theme=github-dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
@@ -18,6 +13,11 @@ I'm a game developer and technical artist.-->
 <!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Serkan-K&show_icons=true&theme=github_dark&hide_border=true&border_radius=5)-->
 
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,cs,cpp,blender,unity,unreal&perline=6" />
+  </a>
+</p>
 
 
          
