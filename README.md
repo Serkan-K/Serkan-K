@@ -1,4 +1,6 @@
-### Hi everyone! 👋
+
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&duration=1000&pause=3000&color=FFFFFF&center=true&vCenter=true&random=false&width=150&lines=+Helloy+everyone+!)](https://git.io/typing-svg)
 
 
 I'm a game developer and technical artist.
