@@ -1,9 +1,8 @@
 
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&duration=1000&pause=3000&color=FFFFFF&center=true&vCenter=true&random=false&width=150&lines=+Hello+everyone+!)](https://git.io/typing-svg)
-
-
-I'm a game developer and technical artist.
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=100&duration=1000&pause=1000&color=3CEBF7&width=2500&height=250&lines=Hello+everyone!;I'm+a+game+developer+and+technical+artist.)](https://git.io/typing-svg)
+<!--
+I'm a game developer and technical artist.-->
 
 Here is my LinkedIn account: https://www.linkedin.com/in/serkan-klc/
 
