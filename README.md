@@ -4,7 +4,7 @@
 <!--
 I'm a game developer and technical artist.-->
 
-### Here is my LinkedIn account: [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) https://www.linkedin.com/in/serkan-klc/
+### Here is my LinkedIn account: [![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.dev](https://www.linkedin.com/in/serkan-klc/)) 
 
 
 
