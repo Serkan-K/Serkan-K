@@ -5,7 +5,7 @@
 <!--
 I'm a game developer and technical artist.-->
 
- ![LinkedIn](https://skillicons.dev/icons?i=linkedin) [LinkedIn](https://www.linkedin.com/in/serkan-klc)
+ <!--![LinkedIn](https://skillicons.dev/icons?i=linkedin) [LinkedIn](https://www.linkedin.com/in/serkan-klc)-->
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Serkan-K&theme=github-dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
@@ -18,6 +18,10 @@ I'm a game developer and technical artist.-->
     <img src="https://skillicons.dev/icons?i=github,cs,cpp,py,unity,blender,unreal,visualstudio&perline=10" />
   </a>
 </p>
+
+
+- - - -
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Serkan-K)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/serkan-klc/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobelightroomclassic.svg' alt='adobelightroomclassic' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blender.svg' alt='blender' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unity.svg' alt='unity' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/unrealengine.svg' alt='unrealengine' height='40'>](a)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudio.svg' alt='visualstudio' height='40'>](a)  
 
 
          
