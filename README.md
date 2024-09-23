@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Serkan%20Kılıç&fontAlign=75&reversal=true&section=header&fontAlignY=40&descAlign=92&descSize=50&descAlignY=60&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=Serkan%20Kılıç&fontAlign=75&reversal=true&section=header&fontAlignY=40&descAlign=92&descSize=50&descAlignY=60&textBg=false)
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1000&pause=1000&color=3CEBF7&width=1500&height=100&lines=Hello+everyone!;I'm+a+game+developer+and+technical+artist.)](https://git.io/typing-svg)
 <!--
