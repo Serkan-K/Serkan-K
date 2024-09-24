@@ -24,7 +24,7 @@ I'm a game developer and technical artist.-->
 </p>
 
 
-
+<img src="https://komarev.com/ghpvc/?username=Serkan-K&color=brightgreen" alt="watching_count" />
 
 <!--
 - - - -
@@ -34,7 +34,6 @@ I'm a game developer and technical artist.-->
 
 - - -
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=70&color=timeGradient&text=Projects&fontColor=00FFFF&stroke=000000&reversal=false&section=header&animation=twinkling&fontSize=40&strokeWidth=2)
-
 
 
 <details>
@@ -51,7 +50,10 @@ I'm a game developer and technical artist.-->
 </details> </p>
 </details>
 
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Serkan-K&repo=Unity_48)](https://github.com/Serkan-K/Unity_48)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Serkan-K&repo=Son-dakikaci)](https://github.com/Serkan-K/Son-dakikaci)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Serkan-K&repo=Ruhiz)](hhttps://github.com/Serkan-K/Ruhiz)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Serkan-K&repo=Projects---PHYS-200)](https://github.com/Serkan-K/Projects---PHYS-200)
 
 - - - -
 
