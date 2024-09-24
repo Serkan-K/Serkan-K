@@ -18,13 +18,13 @@ I'm a game developer and technical artist.-->
 
 # Skills
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Serkan-K?tab=repositories">
     <img src="https://skillicons.dev/icons?i=,github,cs,cpp,py,html,css,,unity,blender,unreal,visualstudio,&perline=20" />
   </a>
 </p>
 
 
-<img src="https://komarev.com/ghpvc/?username=Serkan-K&color=brightgreen" alt="watching_count" />
+<!--<img src="https://komarev.com/ghpvc/?username=Serkan-K&color=brightgreen" alt="watching_count" />-->
 
 <!--
 - - - -
