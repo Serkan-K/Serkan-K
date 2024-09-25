@@ -8,10 +8,15 @@ I'm a game developer and technical artist.-->
 
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=Serkan-K&theme=github-dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serkan-K&layout=compact&theme=github_dark&&hide_border=true&border_radius=5,hide=kotlin,swift,objective-c)](https://github.com/Serkan-K)
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serkan-K&theme=github_dark" style="width: 500px;" />
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serkan-K&layout=compact&theme=github_dark&&hide_border=true&border_radius=5,hide=kotlin,swift,objective-c)](https://github.com/Serkan-K)-->
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Serkan-K&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&border_radius=5" alt="ovi" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serkan-K&theme=github_dark" style="width: 400px;" />
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serkan-K&theme=github_dark)-->
 <!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Serkan-K&show_icons=true&theme=github_dark&hide_border=true&border_radius=5)-->
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Serkan-K&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&border_radius=5" alt="Top Languages" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serkan-K&theme=github_dark" style="width: 600px;" alt="Profile Summary" />
+</div>
 
 
 
