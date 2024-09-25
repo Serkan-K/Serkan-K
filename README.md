@@ -8,7 +8,7 @@ I'm a game developer and technical artist.-->
 
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=Serkan-K&theme=github-dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)-->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serkan-K&layout=compact&theme=github_dark&&hide_border=true&border_radius=5,hide=kotlin,swift,objective-c)](https://github.com/Serkan-K)
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serkan-K&theme=github_dark" style="width: 500px;" />
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serkan-K&theme=github_dark)-->
 <!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Serkan-K&show_icons=true&theme=github_dark&hide_border=true&border_radius=5)-->
