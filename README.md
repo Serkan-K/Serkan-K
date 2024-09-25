@@ -33,7 +33,7 @@ I'm a game developer and technical artist.-->
 
 
 - - -
-![header](https://capsule-render.vercel.app/api?type=transparent&height=70&color=timeGradient&text=Projects&fontColor=00FFFF&stroke=000000&reversal=false&section=header&animation=twinkling&fontSize=40&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=70&color=timeGradient&text=Projects&fontColor=00FFFF&stroke=000000&reversal=false&section=header&animation=twinkling&fontSize=40&strokeWidth=0)
 
 
 <details>
