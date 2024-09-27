@@ -20,6 +20,14 @@ I'm a game developer and technical artist.-->
 </div>
 
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serkan-K&theme=github_dark" style="width: 100%; height: 100%; max-width: 500px;" alt="Profile Summary" />
+
+# Skills
+<p align="center">
+  <a href="https://github.com/Serkan-K?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=,github,cs,cpp,py,html,css,,unity,blender,unreal,visualstudio,&perline=20" />
+  </a>
+</p>
+
 <!--
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 10px;">
@@ -31,12 +39,7 @@ I'm a game developer and technical artist.-->
 -->
 
 
-# Skills
-<p align="center">
-  <a href="https://github.com/Serkan-K?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=,github,cs,cpp,py,html,css,,unity,blender,unreal,visualstudio,&perline=20" />
-  </a>
-</p>
+
 
 
 <!--<img src="https://komarev.com/ghpvc/?username=Serkan-K&color=brightgreen" alt="watching_count" />-->
