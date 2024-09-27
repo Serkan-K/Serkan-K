@@ -15,11 +15,20 @@ I'm a game developer and technical artist.-->
 <!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Serkan-K&show_icons=true&theme=github_dark&hide_border=true&border_radius=5)-->
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Serkan-K&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&border_radius=5" alt="Top Languages" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Serkan-K&theme=github_dark" alt="Top Languages" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serkan-K&theme=github_dark" style="width: 500px;" alt="Profile Summary" />
 </div>
 
 
+<!--
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Serkan-K&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&border_radius=5" alt="Top Languages" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serkan-K&theme=github_dark" style="width: 500px;" alt="Profile Summary" />
+</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Serkan-K&theme=github_dark)
+
+-->
 
 
 # Skills
