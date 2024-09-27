@@ -16,7 +16,7 @@ I'm a game developer and technical artist.-->
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 10px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Serkan-K&theme=github_dark" style="width: 40%; max-width: 400px; alt="Top Languages" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serkan-K&theme=github_dark" style="width: 60%; max-width: 500px;" alt="Profile Summary" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serkan-K&theme=github_dark" style="width: 50%; max-width: 500px;" alt="Profile Summary" />
 </div>
 
 
