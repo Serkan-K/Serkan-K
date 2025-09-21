@@ -16,11 +16,11 @@ I'm a game developer and technical artist.-->
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-gap: 10px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Serkan-K&theme=github_dark&hide_border=true" style="width: 40%; max-width: 400px; alt="Top Languages" />
-    <!--<img src="https://streak-stats.demolab.com?user=Serkan-K&theme=github-dark&hide_border=true&border_radius=5" style="width: 50%; height: 100%; max-width: 500px;" alt="Profile Summary" />-->
+    <img src="https://streak-stats.demolab.com?user=Serkan-K&theme=github-dark&hide_border=true&border_radius=5" style="width: 50%; height: 100%; max-width: 500px;" alt="Profile Summary" />
 </div>
  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Serkan-K)](https://git.io/streak-stats)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=Serkan-K)](https://git.io/streak-stats)-->
 
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Serkan-K&theme=github_dark" style="width: 100%; height: 100%; max-width: 500px;" alt="Profile Summary" />
 
